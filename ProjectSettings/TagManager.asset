@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - MovingFloor
+  - StepWall
+  - Get
+  - Get2
   layers:
   - Default
   - TransparentFX

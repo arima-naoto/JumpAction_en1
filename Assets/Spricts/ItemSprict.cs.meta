@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b14d3b613f15d5e44a83e11819de8755
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redWall: {fileID: 8785827186658648605, guid: e19a7242eb767b146b5dbfb1aeb08108, type: 3}
+  - redWallAnimator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
